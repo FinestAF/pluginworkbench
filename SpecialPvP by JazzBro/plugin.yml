@@ -1,0 +1,68 @@
+name: SpecialPvP
+main: me.jazzbro.specpvp.mainpack.Main
+version: 1.0
+author: JazzBro
+commands:
+  refill:
+    description: gives player more water!
+  peasant:
+    description: gives player peasant kit!
+  warrior:
+    description: gives player warrior kit!
+  jammer:
+    description: gives player jammer kit!
+  archer:
+    description: gives player archer kit!
+  ninja:
+    description: gives player ninja kit!
+  snowman:
+    description: gives player snowman kit!
+  blaze:
+    description: gives player blaze kit!
+  bloodmage:
+    description: gives player bloodmage kit
+  endermage:
+    description: gives player endermage kit
+  barcher:
+    description: buy archer kit
+  bblaze:
+    description: buy blaze kit
+  bbloodmage:
+    description: buy bloodmage kit
+  bendmage:
+    description: buy endermage kit
+  bjammer:
+    description: buy jammer kit
+  bninja:
+    description: buy ninja kit
+  bpeasant:
+    description: buy peasant kit
+  bsnowman:
+    description: buy snowman kit
+  bwarrior:
+    description: buy warrior kit
+permissions:
+  sp.archer:
+    description: permission for archer kit
+    default: op
+  sp.blaze:
+    description: permission for blaze kit
+    default: op
+  sp.bloodmage:
+    description: permission for bloodmage kit
+    default: op
+  sp.endermage:
+    description: permission for endmage kit
+    default: op
+  sp.jammer:
+    description: permission for jammer kit
+    default: op
+  sp.ninja:
+    description: permission for ninja kit
+    default: op
+  sp.snowman:
+    description: permission for snowman kit
+    default: op
+  sp.warrior:
+    description: permission for warrior kit
+    default: op

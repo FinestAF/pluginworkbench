@@ -1,0 +1,7 @@
+name: JazzSellWand
+main: me.jazzbro.swand.Main
+author: JazzBro
+version: 1.0
+commands: 
+  sellwand:
+    description: gives player wand item!
