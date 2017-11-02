@@ -1,0 +1,8 @@
+name: ChatBlock
+main: me.jazzbro.chatblock.Main
+version: 1.0
+author: JazzBro
+permissions:
+  chatb.bypass:
+    description: permission for to bypass chat block
+    default: op

@@ -1,0 +1,11 @@
+main: me.jazzbro.ttnt.Main
+name: JThrowTNT
+author: JazzBro
+version: 1.0
+commands:
+  jtnt:
+    description: gives player throwing tnt
+permissions:
+  jtnt.comm:
+    description: gives player jtnt command
+    default: op

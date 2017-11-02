@@ -1,0 +1,11 @@
+name: Orbs
+main: me.jazzbro.orbs.Main
+author: JazzBro
+version: 2.0
+commands:
+  orbs:
+    description: use this command to open the orb gui!
+  orbfly:
+    description: use this command to get fly
+  orbhaste:
+    description: use this command to get haste
